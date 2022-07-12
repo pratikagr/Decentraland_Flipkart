@@ -1,0 +1,13 @@
+{
+  "extends": "@dcl/eslint-config/sdk",
+  "parserOptions": {
+    "project": ["tsconfig.json"]
+  }
+
+  // "prettier/prettier": [
+  //   "error",
+  //   {
+  //     "endOfLine": "auto"
+  //   }
+  // ]
+}
